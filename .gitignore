@@ -2,6 +2,8 @@
 config.py 
 # Ading more files
 API_practice.ipynb
+random_numbers.ipynb
+weather_data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
